@@ -1,0 +1,7 @@
+{
+  "prettier.printWidth": 100,
+  "prettier.singleAttributePerLine": true,
+  "html.format.wrapLineLength": 0,
+  "prettier.arrowParens": "avoid",
+  "prettier.trailingComma": "none"
+}
